@@ -1,0 +1,11 @@
+{
+  "name": "desafio1-patitucci",
+  "version": "1.0.0",
+  "description": "proyecto de cursada",
+  "main": "desafio-patitucci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CarlosPatitucci",
+  "license": "ISC"
+}

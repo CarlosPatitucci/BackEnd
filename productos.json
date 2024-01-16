@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "lechuga",
+    "description": "vegetal verde",
+    "price": 150,
+    "img": "imagen 4",
+    "code": "COD04",
+    "stock": 130
+  },
+  {
+    "id": 2,
+    "title": "Manzana",
+    "description": "fruta roja y jugosa",
+    "price": 250,
+    "img": "imagen 2",
+    "code": "COD02",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Banana",
+    "description": "fruta amarilla y nutritiva",
+    "price": 350,
+    "img": "imagen 3",
+    "code": "COD03",
+    "stock": 30
+  }
+]
